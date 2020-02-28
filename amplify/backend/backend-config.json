@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"amptemplate92e5e184": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
